@@ -1,0 +1,4 @@
+QuickEdit
+=========
+
+Simple video editor
